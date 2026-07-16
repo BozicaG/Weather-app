@@ -43,7 +43,7 @@ The app is deployed on GitHub Pages:
 ![Day Theme](screenshots/Day.png)
 
 ### Night Theme
-![Night Theme](screenshots/Night.png)
+![Night Theme](screenshots/night.png)
 
 ### Sunrise/Sunset Theme
 ![Sunrise/sunset Theme](screenshots/sunriseSunset.png)
