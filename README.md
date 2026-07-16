@@ -24,7 +24,7 @@ It uses **HTML, CSS, JavaScript**, and **Webpack** for bundling and project orga
 
 ## 🌐 Deployment
 The app is deployed on GitHub Pages:  
-👉 https://<BozicaG>.github.io/weatherapp/
+👉 https://bozicag.github.io/Weather-app/
 
 ---
 
